@@ -9,7 +9,7 @@
       <pubDate>Tue, 05 May 2026 14:20:02 +07:00</pubDate>
       <sparkle:version>1.0.4</sparkle:version>
       <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-      <enclosure url="Setup.exe" sparkle:version="1.0.4" sparkle:shortVersionString="1.0.4" length="57423018" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="i7iFZyl/+7wf0nL7RJsjkT5njtg0ITAOcci4hOpBIpk+GEnCZdGjo5P42+YbwGVBTWdY8mrovLbBIMJG8gWEAw==" />
+      <enclosure url="https://github.com/kawuryan/Optimus_Desktop_Update/blob/main/appcast.xml" sparkle:version="1.0.4" sparkle:shortVersionString="1.0.4" length="57423018" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="i7iFZyl/+7wf0nL7RJsjkT5njtg0ITAOcci4hOpBIpk+GEnCZdGjo5P42+YbwGVBTWdY8mrovLbBIMJG8gWEAw==" />
     </item>
   </channel>
 </rss>

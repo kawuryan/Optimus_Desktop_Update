@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Application</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>Application 1.0.4</title>
+      <pubDate>Tue, 05 May 2026 14:20:02 +07:00</pubDate>
+      <sparkle:version>1.0.4</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <enclosure url="Setup.exe" sparkle:version="1.0.4" sparkle:shortVersionString="1.0.4" length="57423018" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="i7iFZyl/+7wf0nL7RJsjkT5njtg0ITAOcci4hOpBIpk+GEnCZdGjo5P42+YbwGVBTWdY8mrovLbBIMJG8gWEAw==" />
+    </item>
+  </channel>
+</rss>

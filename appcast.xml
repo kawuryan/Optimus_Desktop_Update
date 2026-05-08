@@ -5,11 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>Application 1.0.3</title>
-      <pubDate>Fri, 08 May 2026 10:45:38 +07:00</pubDate>
-      <sparkle:version>1.0.3</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-      <enclosure url="https://github.com/kawuryan/Optimus_Desktop_Update/releases/download/v1.0.3/OptimusDesktopApp-1.0.3.exe" sparkle:version="1.0.3" sparkle:shortVersionString="1.0.3" length="57451321" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="uPTCXRWLD1ru6S6IJLfAGySPojc2ACJEv3/wYZVegR8RQpcba7N6BbJ1lAz5f7gyxIZGyXDfnBb8vkL3P7vPAQ==" />
+      <title>Application 1.0.0</title>
+      <pubDate>Fri, 08 May 2026 14:11:37 +07:00</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/kawuryan/Optimus_Desktop_Update/releases/download/v1.0.0/OptimusDesktopApp-1.0.0.exe" sparkle:version="1.0.0" sparkle:shortVersionString="1.0.0" length="57431119" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="jEy2WIjhnRZYs4oBCvRzJnUWxKsLFTCWI6oEmehkKQQ48A94QHLFoClcPi4cEDtN7axPPQuQUZDb5twtyAwpCA==" />
     </item>
   </channel>
 </rss>
